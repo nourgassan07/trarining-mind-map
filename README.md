@@ -4,5 +4,5 @@
 
 ---
 
-<p align="center"> Made with :blue_heart: by <a href="https://github.com/nourgassan07">Noor</a></p>
+<p align="center"> Made with :blue_heart: by <a href="https://github.com/nourgassan07">Noor Gassan</a></p>
 
