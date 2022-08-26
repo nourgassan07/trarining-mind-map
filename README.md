@@ -2,11 +2,11 @@
 <h1 align="center"> My Training Mind Map 🔥 </h1> 
 
 <h3>Warning ⚠ : On August 29, 2022 🗓 , we decided to stop sharing training details for privacy reasons 🔒.</h3>
-<br/>
+
+#
 <h3>
 We hope everyone who watches this repo check it out 🎉 and give it a star ⭐ if they feel it is useful 🤍.
 </h3>
-<br/>
 
 #
 <h3><center>Coach Report 📄 </center></h3>
@@ -16,8 +16,7 @@ Noor is a great and passionate person who has a lot of abilities and talents for
 <h3>
 I'm so glad I was her coach and I'll make sure she reaches her goal of becoming a great programmer.
 </h3>
-<h5><br/></h5>
-<h4 align="right">Coach Muhammad Hassoud ✏</h4>
+<h4 align="right">🖋 By Coach Muhammad Hassoud</h4>
 
 #
 <br/>
